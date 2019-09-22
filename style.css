@@ -1,0 +1,9 @@
+.col-sm-7{
+    padding: 20px;
+}
+.col-sm-5{
+    padding: 10px;
+}
+body{
+    background-image:url("stone.png");
+}
